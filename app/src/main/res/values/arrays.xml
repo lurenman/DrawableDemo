@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Bitmapstyle">
+        <item>mirror</item>
+        <item>clamp</item>
+        <item>repeat</item>
+    </string-array>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clip xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/pager0"
+    android:clipOrientation="horizontal"
+    android:gravity="center">
+</clip>
+    <!--参考http://blog.csdn.net/javazejian/article/details/52247337-->

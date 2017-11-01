@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<transition xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--中 android:top，android:bottom，android:left，android:right分别表示Drawable四周的偏移量。-->
+    <!--    <item
+            android:drawable="@[package:]drawable/drawable_resource"
+            android:id="@[+][package:]id/resource_name"
+            android:top="dimension"
+            android:right="dimension"
+            android:bottom="dimension"
+            android:left="dimension" />-->
+    <!--发现这种只有两个item才有效果，多则还是前两个图片的效果-->
+    <item android:drawable="@drawable/pager0"/>
+    <item android:drawable="@drawable/pager1" />
+    <!--<item android:drawable="@drawable/pager2" />-->
+</transition>

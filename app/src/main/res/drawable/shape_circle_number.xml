@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval"
+    >
+    <solid android:color="#D90E0E" />
+    <!--这个size和padding和控件属性是一样的效果-->
+    <size android:height="50dp" android:width="50dp" />
+    <padding
+        android:right="50dp"
+        android:bottom="50dp"
+        android:left="50dp"
+        android:top="50dp"
+        />
+</shape>
